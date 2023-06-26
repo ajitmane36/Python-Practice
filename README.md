@@ -1,2 +1,4 @@
-# Python-Practice
-This repository serves as a practice ground for Python programming in the context of data science. It encompasses a collection of code snippets, projects, and exercises aimed at enhancing Python skills specifically tailored for data analysis, machine learning, and data visualization.
+
+# <ins>`Data Science Python Practice Repository`</ins>
+
+Welcome to the Data Science Python Practice Repository! This repository is designed to provide a platform for practicing Python programming in the field of data science. It offers a wide range of code snippets and exercises to help you enhance your Python skills, with a particular focus on data analysis, machine learning, and data visualization.
